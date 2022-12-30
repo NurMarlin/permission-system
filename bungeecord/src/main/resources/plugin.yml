@@ -1,0 +1,4 @@
+name: permission-system-bungeecord
+main: net.playlegend.permission.bungee.PermissionBungeePlugin
+version: 1.0
+author: Marlin
